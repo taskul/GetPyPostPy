@@ -22,8 +22,11 @@ Click on POST Button and then enter your API endpoint URL in the top field. Then
 
 ### Sending PATCH Requests
 Click on PATCH Button and then enter your API endpoint URL in the top field. Then add the number of parameter fields you'll need for your PATCH request before adding values to the parameter fields. 
+You can enter the ID for specific entry in the database as one of the parameters as shown in an example below. 
+You can also enter the ID this way (*http://127.0.0.1:5000/update_reps/6*) depending on which API endpoint you have built. 
 ![Screen Shot](pics/PATCH.png)
 
 ### Sending DELETE Requests
 Click on DELETE Button and then enter your API endpoint URL in the top field. Then add the number of parameter fields you'll need for your DELETE request before adding values to the parameter fields. 
+This shows an example of passing an API-key in order to be able to delete an entry in the database. 
 ![Screen Shot](pics/DELETE.png)
