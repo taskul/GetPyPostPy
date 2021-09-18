@@ -14,7 +14,7 @@ Clicking on the specific button will chnage the type of request that will be sen
 
 New parameter fields can be added using + button. Unfortunately when you click on the + button it does not retain the values that were entered in previous fields. ***Therefore first create the number of parameter fields you want.*** I will try to make a fix for that in the future.
 
-Click on GET Button and then enter your API endpoint URL in the top field. Then add the number of parameter fields you'll need for your GET request before adding values to the parameter fields. 
+Click on GET Button and then enter your API endpoint URL in the top field. Then add the number of parameter fields you'll need for your GET request before adding values to the parameter fields. Click SEND button to send your request. If successful you'll get a **JSON response in a Response field**, and a **response status code** will show up above the Response field. 
 ![Screen Shot](pics/GET.png)
 
 ### Sending POST Requests
