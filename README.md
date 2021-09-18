@@ -1,5 +1,5 @@
 # GetPyPostPy
-## Test local and APIs with Python only GUI
+## Test local and APIs with Python only GUI(Gaphical User Interface)
 GetPyPostPy uses Tkinter for GUI interface and Python Requests module.
 
 ### Getting Started
@@ -7,6 +7,8 @@ You'll need a popular Requests package for sending HTTP/1.1 requests
 pip install Requests package
 
 **python -m pip install requests**
+
+To test your local APIs you'll need to run GetPyPostPy GUI in a seperate terminal window or CLI (command line interface). For example you could run your local server in a code editor of choice (Vscode, PyCharm, etc) and run GetPyPostPy in CLI or another code editor window. 
 
 ### Sending GET Requests
 On the left there are four buttons for different types of requests. 
